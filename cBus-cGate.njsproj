@@ -29,6 +29,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="app.js" />
+    <Content Include="asa.axa">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="index.js">
       <SubType>Code</SubType>
     </Content>
