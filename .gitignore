@@ -1,3 +1,4 @@
+ $ git status
 *.axa
 *.njsproj.*
 *.sln
