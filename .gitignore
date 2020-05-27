@@ -1,3 +1,4 @@
+*.axa
 *.njsproj.*
 *.sln
 .vs/ 
@@ -9,4 +10,3 @@ obj/
 app.js
 package-lock.json
 node_modules/
-*.axa
