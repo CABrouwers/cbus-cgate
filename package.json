@@ -1,0 +1,13 @@
+{
+  "name": "cgate-cbus",
+  "version": "0.0.2",
+  "description": "cGate-cBus",
+  "main": "index.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "openpromise": "^2.2.1",
+    "telnet-engine": "^1.2.3"
+  }
+}

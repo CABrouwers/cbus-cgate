@@ -1,0 +1,10 @@
+*.njsproj.*
+*.sln
+.vs/ 
+.git/
+bin/
+obj/
+*.npmignore
+*.njproj
+app.js
+package-lock.json
